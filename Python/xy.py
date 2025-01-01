@@ -1,8 +1,8 @@
 import requests
 
 # 네이버 API 키 설정
-client_id = 'mz2ndtwfhe'  # 네이버 클라우드 플랫폼에서 발급받은 클라이언트 ID
-client_secret = 'p4l9fh2s86SOJxksMPXFnqRquyJENsVLfY7TvgUK'  # 네이버 클라우드 플랫폼에서 발급받은 클라이언트 시크릿
+client_id = 'x'  # 네이버 클라우드 플랫폼에서 발급받은 클라이언트 ID
+client_secret = 'x'  # 네이버 클라우드 플랫폼에서 발급받은 클라이언트 시크릿
 
 # 장소 이름
 place_name = '서울특별시 노원구 롯데시네마'
